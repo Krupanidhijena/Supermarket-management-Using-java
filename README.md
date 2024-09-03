@@ -1,9 +1,5 @@
 Super Market Management System (Java)
 Functionality Explanation
-![Screenshot (489)](https://github.com/user-attachments/assets/f5ae826a-7e7d-4571-95c3-a8ce8f4b2f68)
-![Screenshot (490)](https://github.com/user-attachments/assets/515dd87b-4608-4f19-8c92-9b2c5cd06696)
-![Screenshot (491)](https://github.com/user-attachments/assets/3251049c-c219-4cb3-b5ff-26763bb2118d)
-![Screenshot (492)](https://github.com/user-attachments/assets/6fd8115b-3ecc-4979-8f15-8c12eca24255)
 
 A Super Market Management System (SMMS) is a software application designed to streamline and automate various operations in a supermarket. It typically includes the following key functionalities:
 
